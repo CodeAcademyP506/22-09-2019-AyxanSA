@@ -1,0 +1,11 @@
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\bin\Debug\loginPage.exe.config
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\bin\Debug\loginPage.exe
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\bin\Debug\loginPage.pdb
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\obj\Debug\loginPage.csprojAssemblyReference.cache
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\obj\Debug\loginPage.Properties.Resources.resources
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\obj\Debug\loginPage.csproj.GenerateResource.cache
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\obj\Debug\loginPage.csproj.CoreCompileInputs.cache
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\obj\Debug\loginPage.exe
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\obj\Debug\loginPage.pdb
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\obj\Debug\loginPage.Form2.resources
+C:\Users\aykha\Desktop\homeworks\26.09.2019 Homework\loginPage\loginPage\obj\Debug\loginPage.Form.resources
